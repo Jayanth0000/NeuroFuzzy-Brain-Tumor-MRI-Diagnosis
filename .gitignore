@@ -1,0 +1,19 @@
+# Dataset: large image files, not stored in Git. See README for download steps.
+dataset/
+
+# Notebook checkpoints and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments and secrets
+venv/
+.venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Anaconda Navigator local project state
+anaconda_projects/
